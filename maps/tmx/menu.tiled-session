@@ -1,0 +1,107 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "D:/Code/Python/vatra/levels/0/level_0.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "D:/Code/Python/vatra/assets/dungeon/tilesheet-enlarged.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "D:/Code/Python/vatra/levels/0/00.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Code/Python/vatra/levels/0/01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Code/Python/vatra/levels/0/coins.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Code/Python/vatra/levels/0/level_0.tmx": {
+            "scale": 0.29563802083333335,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1922.9597005064961,
+                "y": 345.0165161858622
+            }
+        },
+        "D:/Code/Python/vatra/maps/0/level_0.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1063,
+                "y": 372
+            }
+        },
+        "scene-0.tmx": {
+            "scale": 1.821328125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 311.5858104920001,
+                "y": 183.93171192038773
+            }
+        },
+        "scene-0.tmx#tilesheet": {
+            "scaleInDock": 2
+        },
+        "scene-1.tmx": {
+            "scale": 1.821328125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 311.5858104920001,
+                "y": 183.38266203405826
+            }
+        },
+        "scene-1.tmx#tilesheet": {
+            "scaleInDock": 1
+        },
+        "scene-2.tmx": {
+            "scale": 1.7738281249999999,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 321.0570358951773,
+                "y": 184.34706011891654
+            }
+        },
+        "scene-2.tmx#tilesheet": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "D:/Code/Python/vatra/maps/0",
+    "last.imagePath": "D:/Code/Python/vatra/assets/dungeon/coins",
+    "map.height": 11,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 60,
+    "openFiles": [
+        "D:/Code/Python/vatra/levels/0/level_0.tmx",
+        "D:/Code/Python/vatra/levels/0/00.tsx"
+    ],
+    "project": "menu.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "D:/Code/Python/vatra/levels/0/00.tsx",
+        "D:/Code/Python/vatra/levels/0/level_0.tmx",
+        "D:/Code/Python/vatra/levels/0/01.tsx",
+        "D:/Code/Python/vatra/levels/0/coins.tsx",
+        "D:/Code/Python/vatra/assets/dungeon/tilesheet-enlarged.tsx",
+        "D:/Code/Python/vatra/maps/0/level_0.tmx",
+        "scene-0.tmx",
+        "scene-1.tmx",
+        "scene-2.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
